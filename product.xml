@@ -1,0 +1,30 @@
+<products>
+    <propduct>
+        <id>ID</id>
+        <Name>NAME</Name>
+        <UnitPrice>UNIT PRICE</UnitPrice>
+        <stock>STOCK</stock>
+        <status>STATUS</status>
+    </propduct>
+    <product>
+        <id>11</id>
+        <Name>Samsung</Name>
+        <UnitPrice>35000</UnitPrice>
+        <stock>50</stock>
+        <status>1</status>
+    </product>
+    <product>
+        <id>20</id>
+        <Name>HTC</Name>
+        <UnitPrice>65300</UnitPrice>
+        <stock>35</stock>
+        <status>0</status>
+    </product>
+    <product>
+        <id>23</id>
+        <Name>Nokia</Name>
+        <UnitPrice>25100</UnitPrice>
+        <stock>100</stock>
+        <status>1</status>
+    </product>
+</products>
