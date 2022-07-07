@@ -1,0 +1,3 @@
+SUDIPTA|123|a@gmail.com
+DIPTO|678|ab@gmail.com
+maisha|908|ab@gmail.com
